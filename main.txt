@@ -1,0 +1,11 @@
+/loadmod LibLoader
+/loadtext main2.txt
+
+/loadmod cosmic radiation
+
+/loadskill mutations/charisma
+/loadskill mutations/steel graft
+/loadskill mutations/auxiliary limb
+
+/loadskill crowns/change reroll
+/loadcrown crowns/change
